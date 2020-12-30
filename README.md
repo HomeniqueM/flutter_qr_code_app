@@ -1,4 +1,4 @@
-# flutter_qr_code_app
+# flutter qr code app
 
 A new Flutter application.
 
