@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 import 'dart:ui';
-
 import 'package:flutter_qr_code_app/src/models/qrdata_model.dart';
 import 'package:flutter_qr_code_app/src/screens/addAndEditScrees/add_edit_screen.dart';
 import 'package:flutter_qr_code_app/src/screens/listScree/list_scree.dart';
